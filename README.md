@@ -1,1 +1,1 @@
-# -KAIST-EE209--Programming-Structure
+# [KAIST-EE209]-Programming-Structure
